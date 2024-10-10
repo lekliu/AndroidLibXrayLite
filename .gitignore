@@ -7,3 +7,7 @@ conf/demo/
 demo/
 assets/
 libv2ray*.[a|j]ar
+.idea/AndroidLibXrayLite.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/modules.xml
+.idea/vcs.xml

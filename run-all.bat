@@ -1,8 +1,8 @@
-copy  D:\code\github\go\Xray-core\common\buf\copy.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.23\common\buf\ /Y
+copy  D:\code\github\go\Xray-core\common\buf\copy.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.24\common\buf\ /Y
 
-copy  D:\code\github\go\Xray-core\proxy\socks\client.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.23\proxy\socks\ /Y
+copy  D:\code\github\go\Xray-core\proxy\socks\client.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.24\proxy\socks\ /Y
 
-copy  D:\code\github\go\Xray-core\proxy\socks\protocol.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.23\proxy\socks\ /Y
+copy  D:\code\github\go\Xray-core\proxy\socks\protocol.go D:\develop_tools\GoPath\pkg\mod\github.com\xtls\xray-core@v1.8.24\proxy\socks\ /Y
 
 cd D:\code\github\go\AndroidLibXrayLite
 gomobile init
